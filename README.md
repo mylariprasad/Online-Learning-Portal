@@ -1,7 +1,7 @@
 # Online-Learning-Portal
 Welcome to the Online Learning Portal GitHub repository! This project is an innovative platform designed to revolutionize education. Below, you'll find essential information about the project, its features, the technologies used, and how to get started.
 
-## Live link:
+## Live link: https://mylariprasad.github.io/Online-Learning-Portal/
 
 
 ## Technologies Used
