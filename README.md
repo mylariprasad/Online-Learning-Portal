@@ -5,29 +5,30 @@ This is the README file for the E-Learning Portal project. This project focuses 
 
 
 ## Features
-### Responsive Design:
+<b>Bold</b>
+<b>Responsive Design:</b>
 The landing page is responsive and can be accessed seamlessly on various devices, including desktops, tablets, and smartphones.
 
 
-### User-Friendly Interface:
+<b>User-Friendly Interface:</b>
 The interface is designed keeping user experience in mind, ensuring easy navigation and accessibility.
 
 
-### Engaging Content:
+<b>Engaging Content:</b>
 The landing page showcases engaging visuals and content to attract users and encourage them to explore the platform further.
 
 
-### Interactive Elements:
+<b>Interactive Elements:</b>
 Interactive elements such as sliders, buttons, and hover effects enhance the overall user interaction on the landing page.
 
 
 
 ## Technologies Used
-### Frontend:
-HTML, CSS, JavaScript
-### External Libraries:
-Swiper.js for interactive sliders
-### External APIs: 
-Font Awesome and Swiper API for icons and carousel functionality
-### Version Control:
-Git, GitHub for collaborative development and version control
+<b>Frontend:</b>
+HTML, CSS, JavaScript <br>
+<b>External Libraries:</b>
+Swiper.js for interactive sliders<br>
+<b>External APIs:</b> 
+Font Awesome and Swiper API for icons and carousel functionality <br>
+<b>Version Control:</b>
+Git, GitHub for collaborative development and version control <br>
